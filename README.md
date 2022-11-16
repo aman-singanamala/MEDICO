@@ -1,2 +1,1 @@
-# hci-jcomp
-# HCI-JCOMP
+# MEDICO
